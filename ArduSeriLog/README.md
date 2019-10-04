@@ -1,5 +1,5 @@
 # ArduSeriLog
-Arduino logger library. Part of the Waveline codebase and under the GNU GPLv3.
+Arduino logger library. Part of the Waveline codebase.
 
 ---
 
