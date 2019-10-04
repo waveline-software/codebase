@@ -1,5 +1,5 @@
 # WebTemplate
-Webpage templates. Part of the Waveline codebase.
+Webpage templates. Part of the WaveLine codebase.
 
 ---
 
