@@ -21,25 +21,10 @@ Example output:<br>
 
 ---
 
-### `info(message)`
-Outputs a line tagged "INFO". This should be used for updating statuses and other related tasks.
+### Message Types
 
----
-
-### `data(message)`
-Outputs a line tagged "DATA". This should be used for printing outputs and results to the console.
-
----
-
-### `warn(message)`
-Outputs a line tagged "WARN". This should be used to warn of issues, mistakes, or things that may cause an error in the future.
-
----
-
-### `error(message)`
-Outputs a line tagged "ERROR". This should be used to notify the user of non-fatal errors.
-
----
-
-### `fatal(message)`
-Outputs a line tagged "FATAL". This should be used to notify the user of fatal errors before an application quits due to them.
+- **`info(message)`** should be used for updating statuses and other related tasks.
+- **`data(message)`** should be used for printing outputs and results to the console.
+- **`warn(message)`** should be used to warn of issues, mistakes, or things that may cause an error in the future.
+- **`error(message)`** should be used to notify the user of non-fatal errors.
+- **`fatal(message)`** should be used to notify the user of fatal errors before an application quits due to them.
