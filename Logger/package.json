@@ -1,0 +1,14 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "WaveLine Logger Module",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WaveLine Software",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
